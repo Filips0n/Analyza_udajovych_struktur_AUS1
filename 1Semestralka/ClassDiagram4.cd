@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="structures::Heap&lt;T&gt;">
+    <Position X="0.5" Y="3" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAAIAAAAAAAAAAAEAoEIAAAAE=</HashCode>
+      <FileName>priority_queue\heap.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="structures::PriorityQueueItem&lt;T&gt;" Collapsed="true">
+    <Position X="2.75" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAQAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>priority_queue\priority_queue.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="structures::PriorityQueue&lt;T&gt;" Collapsed="true">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IEAAAAQAAAAAAAABAIAAAIAIAAAAAAAAAAAoEAgAAAA=</HashCode>
+      <FileName>priority_queue\priority_queue.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="structures::PriorityQueueLimitedSortedArrayList&lt;T&gt;">
+    <Position X="3" Y="6.5" Width="4.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAIAAAAAAAAAAQAAACAokAAAAAA=</HashCode>
+      <FileName>priority_queue\priority_queue_limited_sorted_array_list.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="structures::PriorityQueueList&lt;T&gt;" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAQAAAAAAAAAAIAAAIAIgAAAAAAAAEAgABAAAAA=</HashCode>
+      <FileName>priority_queue\priority_queue_list.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="structures::PriorityQueueSortedArrayList&lt;T&gt;">
+    <Position X="4" Y="3" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAEAoEAAAAAA=</HashCode>
+      <FileName>priority_queue\priority_queue_sorted_array_list.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="structures::PriorityQueueTwoLists&lt;T&gt;">
+    <Position X="7.75" Y="1.75" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAQAAAAAACABAIAAAIAIAAAQAAAAAAIoEwgEAAA=</HashCode>
+      <FileName>priority_queue\priority_queue_two_lists.h</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="shortList_" />
+    </ShowAsAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

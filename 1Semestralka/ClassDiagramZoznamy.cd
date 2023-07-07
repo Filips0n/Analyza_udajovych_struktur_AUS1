@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="structures::ArrayList&lt;T&gt;" Collapsed="true">
+    <Position X="0.75" Y="2" Width="1.5" />
+    <NestedTypes>
+      <Class Name="structures::ArrayList&lt;T&gt;::ArrayListIterator" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>list\array_list.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AEAAAAAgAABAAAAACYgAAABAQAEAAAEAAgAgEAECAAA=</HashCode>
+      <FileName>list\array_list.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="structures::DoubleLinkedListItem&lt;T&gt;">
+    <Position X="8.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAggAAAQAAAAAAIAAAAAAAAAAAACIAACAAAAAAA=</HashCode>
+      <FileName>double_linked_list.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="structures::LinkedListItem&lt;T&gt;" Collapsed="true">
+    <Position X="2.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAIAAAAAgAAAAAAAAIAACAAAAAAA=</HashCode>
+      <FileName>list\linked_list.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="structures::LinkedList&lt;T&gt;" Collapsed="true">
+    <Position X="2.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAABBQAAAACYEABABAQAEAAAEAAAAgEIECAAA=</HashCode>
+      <FileName>list\linked_list.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="structures::List&lt;T&gt;" Collapsed="true">
+    <Position X="2.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAABAAAAACYAAAAAAQAEAAAEAAAAgEAECAAI=</HashCode>
+      <FileName>list\list.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="structures::DoubleLinkedList&lt;T&gt;">
+    <Position X="4.25" Y="2" Width="3.75" />
+    <NestedTypes>
+      <Class Name="structures::DoubleLinkedList&lt;T&gt;::DoubleCycleLinkedLinkedListIterator" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>double_linked_list.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAABAAABACYEAAABAQAEAACEAAAAgEIECAAA=</HashCode>
+      <FileName>double_linked_list.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
